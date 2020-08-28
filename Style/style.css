@@ -1,0 +1,44 @@
+
+.navbar{
+    padding: 0 !important;
+}
+
+.navbar-toggler{
+    margin-right: 15px ;
+}
+
+.navbar-brand{
+    font-size: 1.9em;
+    font-family: 'lora', serif;
+    padding: .5rem 1rem !important;
+}
+
+.col-xs-12{
+    margin-bottom: 25px !important;
+}
+
+.grid > h1{
+    margin-bottom: 45px;
+    margin-top: 45px;
+    
+}
+
+.navbar-nav .nav-link{
+    width: 100%;
+    text-align: center;
+    color: black !important;
+    font-family: 'lora', serif !important;
+    border-bottom: black 2px solid;
+}
+
+
+ /* ---------------- @medias-----------------  */
+  
+@media (min-width: 768px){
+    .nav-link{
+        display: none;
+        
+    }
+
+
+}
